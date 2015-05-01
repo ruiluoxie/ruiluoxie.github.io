@@ -56,3 +56,6 @@ a.resume-back-home:active {
     margin-top:20px;
     margin-botton:20px;
 }
+.min-width-72 {
+    min-width:72px;
+}
